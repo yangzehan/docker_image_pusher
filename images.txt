@@ -5,4 +5,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
-bellsoft/liberica-openjre-alpine:8
+#bellsoft/liberica-openjre-alpine:8
+redis:7.2.5
+mysql:8.2.0
