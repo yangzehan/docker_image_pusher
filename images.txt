@@ -8,4 +8,5 @@
 #bellsoft/liberica-openjre-alpine:8
 #redis:7.2.5
 #mysql:8.2.0
-minio/minio:RELEASE.2024-06-11T03-13-30Z
+#minio/minio:RELEASE.2024-06-11T03-13-30Z
+bellsoft/liberica-runtime-container:jdk-21.0.3-crac-cds-slim-musl
