@@ -10,4 +10,6 @@
 #mysql:8.2.0
 #minio/minio:RELEASE.2024-06-11T03-13-30Z
 #bellsoft/liberica-runtime-container:jdk-21.0.3-crac-cds-slim-musl
-nacos/nacos-server:v2.3.2
+#nacos/nacos-server:v2.3.2
+
+jenkins/jenkins:jdk21
