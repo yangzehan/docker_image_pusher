@@ -12,4 +12,5 @@
 #bellsoft/liberica-runtime-container:jdk-21.0.3-crac-cds-slim-musl
 #nacos/nacos-server:v2.3.2
 
-jenkins/jenkins:jdk21
+#jenkins/jenkins:jdk21
+minio/minio:RELEASE.2019-08-07T01-59-21Z
