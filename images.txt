@@ -18,4 +18,5 @@
 #minio/mc:RELEASE.2019-08-07T23-14-43Z
 #docker.io/tomcat:8.0
 #wordpress:6.6.2
-postgres:17.1-alpine
+#postgres:17.1-alpine
+mysql:8.1.0
