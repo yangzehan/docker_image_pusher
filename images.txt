@@ -19,4 +19,4 @@
 #docker.io/tomcat:8.0
 #wordpress:6.6.2
 #postgres:17.1-alpine
-mysql:8.1.0
+mysql:5.7.36
