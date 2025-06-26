@@ -22,5 +22,5 @@ nginx
 #postgres:17.1-alpine
 #mysql:5.7.36
 #elasticsearch:8.15.5
-bladex/sentinel-dashboard:1.8.8
+#bladex/sentinel-dashboard:1.8.8
 paketobuildpacks/java:17
