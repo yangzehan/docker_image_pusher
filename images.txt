@@ -1,2 +1,2 @@
 
-paketobuildpacks/java:17
+bitnami/java:17
